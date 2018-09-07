@@ -1,0 +1,4 @@
+<!--pages/mypage.wxml-->
+<view class='main'>
+  <text>X: {{curX}}, Y: {{curY}}</text>
+</view>

@@ -1,0 +1,6 @@
+<!--pages/index.wxml-->
+<view class='title'>
+  <image class='title-image' src='../pages/images.jpg'></image>
+  <button class='btn' bindtap='openNewPage'>点我开始游戏</button>
+</view>
+

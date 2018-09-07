@@ -1,0 +1,17 @@
+/* pages/index.wxss */
+
+.title{
+  text-align: center;
+}
+
+.title-image{
+  margin-top: 200rpx;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+.btn{
+  margin-top: 50rpx;
+  width: 50%;
+}

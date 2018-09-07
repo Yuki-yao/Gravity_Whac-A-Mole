@@ -1,0 +1,5 @@
+/* pages/mypage.wxss */
+.main{
+  text-align: center;
+  padding-top: 10px;
+}

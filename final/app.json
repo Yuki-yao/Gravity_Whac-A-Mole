@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/mypage"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#4b0963",
+    "navigationBarTitleText": "打地鼠",
+    "navigationBarTextStyle": "light"
+  }
+}
